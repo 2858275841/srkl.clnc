@@ -12,7 +12,9 @@
 }
 /* 图 */
 .ly-img81 {
-	height: 550px;
+	height: 750px;
+	position: relative;
+	top: 120px;
 }
 /*img{  
 	display: inline-block;
